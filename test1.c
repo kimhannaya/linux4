@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    double sf = 2.0, dm = 1.2, r, R, c = 0.018, g = 9.81, G;
+    /* double sf = 2.0, dm = 1.2, r, R, c = 0.018, g = 9.81, G;
     int n, m;
     printf("총하중(kg) : ");
     scanf("%d", &m);
@@ -27,6 +27,18 @@ int main(void) {
     else
     {
         printf("불만족 우우");
+    } 
+    */
+   int i, j;
+
+    for (i = 2; i < 10; i++)
+    {
+        for (j = 1; j < 10; j++)
+        {
+            printf("%d * %d = %d\n", i, j, i*j);
+
+        }
+
     }
 
 
