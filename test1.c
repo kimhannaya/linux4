@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-    /* double sf = 2.0, dm = 1.2, r, R, c = 0.018, g = 9.81, G;
+
+    /*
+------------------------모터 계산 코드---------------------------
+    double sf = 2.0, dm = 1.2, r, R, c = 0.018, g = 9.81, G;
     int n, m;
     printf("총하중(kg) : ");
     scanf("%d", &m);
@@ -28,7 +31,9 @@ int main(void) {
     {
         printf("불만족 우우");
     } 
-    */
+    
+-----------------구구단 코드 (for문, do~while문 해볼것)----------------
+*/
    int i, j;
 
     for (i = 2; i < 10; i++)
