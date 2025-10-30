@@ -1,0 +1,15 @@
+[INFO] System started
+[ERROR] Sensor failed
+[INFO] Connection established
+[WARNING] Low battery
+[ERROR] Motor overload
+[INFO] System started
+[ERROR] Sensor failed
+[INFO] Connection established
+[WARNING] Low battery
+[ERROR] Motor overload
+[INFO] System started
+[ERROR] Sensor failed
+[INFO] Connection established
+[WARNING] Low battery
+[ERROR] Motor overload
